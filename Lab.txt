@@ -1,0 +1,13 @@
+AI Chef Assistant
+
+Build an AI Chef system that:
+Accepts ingredients (text)
+Understands available food
+Guides user step-by-step to a meal decision
+Never skips steps
+Human-like Chef
+Speaks like a real chef 👨‍🍳
+Remembers conversation context
+Adjusts creativity (strict ↔ creative)
+Responds concisely or in detail
+Try the same steps used on ollama (Bounce)
